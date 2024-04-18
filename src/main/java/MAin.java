@@ -9,6 +9,7 @@ public class MAin {
     void fe(){
         System.out.println("zaz");
         System.out.println();
+        System.out.println("aaaaaaa");
     }
 
     void cherrypick(){
