@@ -14,5 +14,6 @@ public class MAin {
 
     void cherrypick(){
        getClass();
+        System.out.println();
     }
 }
