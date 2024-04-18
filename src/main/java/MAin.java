@@ -3,6 +3,6 @@ public class MAin {
 
         System.out.println("as");
         int sd;
-        int dev;
+        int dev=4;
     }
 }
