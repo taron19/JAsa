@@ -7,6 +7,6 @@ public class MAin {
         System.out.println("hello");
     }
     void fe(){
-
+        System.out.println("zaz");
     }
 }
