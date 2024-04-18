@@ -4,5 +4,6 @@ public class MAin {
         System.out.println("as");
         int sd;
         System.out.println();
+        System.out.println("hello");
     }
 }
