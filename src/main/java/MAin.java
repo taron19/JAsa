@@ -13,6 +13,6 @@ public class MAin {
     }
 
     void cherrypick(){
-
+       getClass();
     }
 }
