@@ -12,6 +12,6 @@ public class MAin {
     }
 
     void cherrypick(){
-        int master;
+        int master=34;
     }
 }
