@@ -13,5 +13,6 @@ public class MAin {
 
     void cherrypick(){
         int master=34;
+        System.out.println();
     }
 }
