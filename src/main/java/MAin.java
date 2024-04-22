@@ -16,5 +16,6 @@ public class MAin {
        getClass();
         System.out.println();
         int x;
+        int origin;
     }
 }
